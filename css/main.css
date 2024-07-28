@@ -1599,7 +1599,7 @@ a {
   padding-right: 97px;
   padding-left: 39px;
   padding-bottom: 25px;
-  background-image: url("img/hero/text-bg.png");
+  background-image: url("../img/hero/text-bg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2554,7 +2554,7 @@ a {
   justify-content: space-between;
   padding: 39px;
   padding-right: 88px;
-  background-image: url("img/hero/text-bg.png");
+  background-image: url("../img/hero/text-bg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3748,4 +3748,3 @@ a {
   justify-content: center;
   padding-bottom: 187px;
 }
-/*# sourceMappingURL=main.css.map */
