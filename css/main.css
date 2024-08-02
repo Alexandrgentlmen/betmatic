@@ -2068,7 +2068,7 @@ a {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-bottom: 20px;
-  padding: 14px 18px;
+  padding: 14px 1px 14px 18px;
   max-width: 640px;
   background-color: var(--box-bg);
 }
@@ -2085,6 +2085,7 @@ a {
   align-items: flex-start;
   padding-top: 20px;
   padding-left: 40px;
+  max-width: 320px;
 }
 .news-card__news-text {
   -webkit-box-flex: 1;
@@ -3748,3 +3749,4 @@ a {
   justify-content: center;
   padding-bottom: 187px;
 }
+/*# sourceMappingURL=main.css.map */
